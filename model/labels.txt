@@ -1,0 +1,2 @@
+0 cartoon
+1 not_cartoon
