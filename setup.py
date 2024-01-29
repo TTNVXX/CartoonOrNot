@@ -7,6 +7,7 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
+        'numpy==1.26.2',
         'Pillow==8.2.0',
         'numpy==1.21.0',
         'tensorflow==2.15.0',
