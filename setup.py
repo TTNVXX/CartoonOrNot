@@ -9,7 +9,6 @@ setup(
     install_requires=[
         'numpy==1.26.2',
         'Pillow==8.2.0',
-        'numpy==1.21.0',
         'tensorflow==2.15.0',
         'requests==2.26.0',  # Include the requests library
     ],
